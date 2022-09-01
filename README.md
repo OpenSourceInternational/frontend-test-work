@@ -10,7 +10,7 @@ Hello! If you want to become a part of our FE team of Open Source International 
 
 - publish it on github pages 
 
-- send us your github account and a link to the published site here hr@o-s-i.org (Subject > Test task - Frontend Team > Name Surname) 
+- send us your github account and a link to the published site here hr@o-s-i.org (Theme > Frontend test work > Name Surname) 
 
 - wait for feedback 
 
